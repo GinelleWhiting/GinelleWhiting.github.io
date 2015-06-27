@@ -1,0 +1,104 @@
+.main {
+border-style: solid;
+    border-width: 5px;
+ }
+ 
+.Profile h2 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color:#FFFFFF;
+  text-decoration: underline;
+  background-color:#9999FF;
+  padding: 10px 10px;
+  text-transform: uppercase;
+  text-align:center;
+}
+
+.Profile a {
+  color: #000080;
+}
+
+.nav a {
+  color: #000080;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+display:inline-block;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#9999FF;
+    text-align: center;
+}
+
+.info h1 {
+  color: #000080;
+  text-decoration:none;
+  font-size: 48px;  
+  font-family: "Georgia", serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.info p {
+  font-family: "Georgia", serif;
+  font-size: 20px;
+  color: #0000CD;
+  text-align: center;
+}
+
+.Jobs h3 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Jobs a {
+  color: #000080;
+}
+
+.Education h3 {
+ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Education a {
+  color: #000080;
+}
+
+.Other h3 {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Other a {
+  color: #000080;
+}
+
+.info .container {
+  position: relative;
+  top:px;
+  text-decoration:none;
+  background-size:contain;
+}
+
+.info .container img {
+    width: 275px;
+    height: 250px;
+    }
+ .Profile p{
+  text-decoration:none;
+  font-size: 15px;
+  color: #000080;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
