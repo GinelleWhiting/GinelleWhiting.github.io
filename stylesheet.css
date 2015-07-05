@@ -96,9 +96,11 @@ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 .info .container img {
-    width: 275px;
-    height: 250px;
-    }
+float:left; 
+width: 50%;
+height: 245px;
+}
+
  .Profile p{
   text-decoration:none;
   font-size: 15px;
